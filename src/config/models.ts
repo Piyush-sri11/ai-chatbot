@@ -240,4 +240,4 @@ export const modelGroups: ProviderGroup[] = [
   },
 ];
 
-export const defaultModelId = "o1-preview";
+export const defaultModelId = "gpt-4o-mini";
